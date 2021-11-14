@@ -1,2 +1,2 @@
-# token_sale
+# TOKEN SALE
 ICO Website Frontend &amp; Backend
